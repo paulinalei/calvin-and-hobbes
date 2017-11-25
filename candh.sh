@@ -1,0 +1,23 @@
+#!/bin/bash
+
+'<td><i>Calvin and Hobbes</i></td>',
+'<td><i>Something Under the Bed Is Drooling</i></td>',
+'<td><i>The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury</i></td>',
+'<td><i>Yukon Ho!</i></td>',
+'<td><i>The Calvin and Hobbes Lazy Sunday Book: A Collection of Sunday Calvin and Hobbes Cartoons</i></td>',
+'<td><i>Weirdos from Another Planet!</i></td>',
+'<td><i>The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury</i></td>',
+'<td><i>The Revenge of the Baby-Sat</i></td>',
+'<td><i>Scientific Progress Goes "Boink"</i></td>',
+'<td><i>Attack of the Deranged Mutant Killer Monster Snow Goons</i></td>',
+'<td><i>The Indispensable Calvin and Hobbes: A Calvin and Hobbes Treasury</i></td>',
+'<td><i>Teaching with Calvin and Hobbes</i></td>',
+'<td><i>The Days Are Just Packed</i></td>',
+'<td><i>Homicidal Psycho Jungle Cat</i></td>',
+'<td><i>The Calvin and Hobbes Tenth Anniversary Book</i></td>',
+"<td><i>There's Treasure Everywhere</i></td>",
+"<td><i>It's a Magical World</i></td>",
+'<td><i>Calvin and Hobbes: Sunday Pages, 1985-1995</i></td>',
+'<td><i>The Complete Calvin and Hobbes</i> (hardcover)</td>',
+'<td><i>The Complete Calvin and Hobbes</i> (paperback)</td>',
+'<td><i>Exploring Calvin and Hobbes: An Exhibition Catalogue</i></td>'
